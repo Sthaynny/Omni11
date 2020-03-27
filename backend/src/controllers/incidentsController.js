@@ -21,7 +21,7 @@ module.exports = {
         
         //offset paginação
         const incidents = await connection('incidents')
-            .select(['incidents.*', 'ongs.name', 'ongs.email', 'ongs.whatsapp', 'ongs.uf'])
+            .select(['incidents.*', 'ongs.name', 'ongs.email', 'ongs.whatsapp','ongs.city' ,'ongs.uf'])
             .limit(5)
             .offset((page-1)*5)
             .join('ongs', 'ongs.id', 'incidents.ong_id');
