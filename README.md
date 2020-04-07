@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="" title="" src="https://image.winudf.com/v2/image1/bWluZHdhcmUubWluZWdhbWVzX2ljb25fMTU1NDYyMjYwOV8wNzg/icon.png?w=170&fakeurl=1" width="80" /><br>
+<img alt="" title="" src="https://image.flaticon.com/icons/svg/1118/1118473.svg" width="80" /><br>
 Semana OmniStack 11
   <!-- trocar: 'você pode colocar uma imagem (logo) que represente seu projeto (visualmente) -->
 </h1>
