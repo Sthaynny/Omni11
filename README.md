@@ -4,7 +4,7 @@ Semana OmniStack 11
   <!-- trocar: 'você pode colocar uma imagem (logo) que represente seu projeto (visualmente) -->
 </h1>
 
-<h2 align="center">Dessenvolvimento de Software</h2>
+<h2 align="center">Desenvolvimento de Software</h2>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Sthaynny/Omni11">
