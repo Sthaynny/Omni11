@@ -7,21 +7,21 @@ Semana OmniStack 11
 <h2 align="center">Dessenvolvimento de Software</h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Sthaynny/XLO_clone">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Sthaynny/Omni11">
   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Sthaynny/XLO_clone">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Sthaynny/Omni11">
   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
-  <a href="https://github.com/Sthaynny/XLO_clone/commits/master">
+  <a href="https://github.com/Sthaynny/Omni11/commits/master">
   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sthaynny/XLO_clone">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sthaynny/Omni11">
      <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
   </a>
 
-  <a href="https://github.com/Sthaynny/XLO_clone">
+  <a href="https://github.com/Sthaynny/Omni11">
    <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Sthaynny/XLO_clone" width="50px">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Sthaynny/Omni11" width="50px">
      <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
   </a>
